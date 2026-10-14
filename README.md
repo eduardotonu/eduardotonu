@@ -33,6 +33,7 @@ I'm a third-year Computer Engineering student who writes Java for fun, builds Mi
 |---|---|
 | **Market analyzer** | A JavaScript Minecraft mod plus a Python program that read the Hypixel market, work out the best trades, and send them back to the mod. Two languages, one very opinionated spreadsheet. |
 | **Farming mod** | A Minecraft mod that farms and clears pests on its own. Built to see how far a well-structured automation loop can go. |
+| **FactionsNewEra** | A Factions server for Minecraft 1.8.9, built in Java. Where I learned what server-side work really looks like. |
 | **Support & resistance indicator** | A Pine Script for TradingView that finds the support and resistance zones that actually matter and draws them on the chart. |
 | **Networks project** | Computer networks coursework in progress. The one pushing me towards low-level thinking. |
 | **Online shop website** | Designed, built and shipped for a real customer (me). The most demanding client I've had. |
