@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Eduardo Tonu - Computer Engineering student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <path id="route" d="M 700 200 C 790 90, 880 250, 970 150 S 1100 110, 1150 140"/>
+  </defs>
+
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+
+  <!-- the "route": a packet travelling across a few nodes -->
+  <use href="#route" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="3 7" opacity="0.7"/>
+  <g fill="#0f172a" stroke="url(#accent)" stroke-width="2">
+    <circle cx="700" cy="200" r="7"/>
+    <circle cx="835" cy="168" r="7"/>
+    <circle cx="970" cy="150" r="7"/>
+    <circle cx="1150" cy="140" r="7"/>
+  </g>
+  <circle r="5" fill="#f472b6">
+    <animateMotion dur="5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#route"/>
+    </animateMotion>
+  </circle>
+
+  <text x="70" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f8fafc">Eduardo Tonu</text>
+  <rect x="72" y="150" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="196" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#cbd5e1">Computer Engineering · backend · systems</text>
+  <text x="72" y="232" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">currently heading towards security</text>
+</svg>
