@@ -64,6 +64,7 @@ How well I actually know things, no inflation:
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square)
 ![Datalog](https://img.shields.io/badge/Datalog-74283C?style=flat-square)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
 
 **Workflow**
 
@@ -71,7 +72,7 @@ How well I actually know things, no inflation:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square)
 
-<sub>Prolog is on this list in spirit: we coexist peacefully, but I wouldn't say we understand each other.</sub>
+<sub>Prolog and Assembly is on this list in spirit: we coexist peacefully, but I wouldn't say we understand each other.</sub>
 
 ---
 
