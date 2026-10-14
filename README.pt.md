@@ -33,6 +33,7 @@ Sou estudante do terceiro ano de Engenharia Informática, escrevo Java por gosto
 |---|---|
 | **Analisador de mercado** | Um mod de Minecraft em JavaScript mais um programa em Python que leem o mercado do Hypixel, calculam as melhores trocas e enviam-nas de volta ao mod. Duas linguagens, uma folha de cálculo muito opinativa. |
 | **Mod de farming** | Um mod de Minecraft que faz farming e mata pragas sozinho. Feito para ver até onde chega um ciclo de automatização bem estruturado. |
+| **FactionsNewEra** | Um servidor Factions para Minecraft 1.8.9, feito em Java. Onde aprendi como é o trabalho do lado do servidor a sério. |
 | **Indicador de suportes e resistências** | Um Pine Script para o TradingView que encontra as zonas de suporte e resistência que realmente importam e desenha-as no gráfico. |
 | **Projeto de redes** | Trabalho de redes de computadores em curso. O que me empurra para o pensamento de baixo nível. |
 | **Site de uma loja online** | Desenhado, construído e entregue a um cliente real (eu). O cliente mais exigente que já tive. |
