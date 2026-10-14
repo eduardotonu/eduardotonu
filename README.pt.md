@@ -64,6 +64,7 @@ O quanto realmente sei de cada coisa, sem inflacionar:
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square)
 ![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square)
 ![Datalog](https://img.shields.io/badge/Datalog-74283C?style=flat-square)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
 
 **Fluxo de trabalho**
 
@@ -71,7 +72,7 @@ O quanto realmente sei de cada coisa, sem inflacionar:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square)
 
-<sub>O Prolog está nesta lista em espírito: coexistimos pacificamente, mas não diria que nos entendemos.</sub>
+<sub>O Prolog e Assembly está nesta lista em espírito: coexistimos pacificamente, mas não diria que nos entendemos.</sub>
 
 ---
 
